@@ -57,6 +57,11 @@ Object_Detection_System/
 ├── output-images/                  # Processed images and videos
 ```
 
+## Sample Data and Model
+To access sample input videos, images, and the pre-trained model, visit the following link:
+
+[Sample Data and Model](https://drive.google.com/drive/folders/1HfJoy32nfDnDriVh2kIIVRodPTioxaU-?usp=sharing)
+
 ## Requirements
 - Python 3.8+
 - Google Colab (recommended)
